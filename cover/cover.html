@@ -1,0 +1,33 @@
+<!doctype html><html><head><meta charset="utf-8"><style>body{margin:0;background:#fff}svg{display:block;font-family:"Inter","Helvetica Neue",Arial,sans-serif}</style></head><body>
+<svg id="c" width="1600" height="800" viewBox="0 0 800 400" xmlns="http://www.w3.org/2000/svg">
+<defs><marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#8a8f98"/></marker></defs>
+<rect width="800" height="400" fill="#ffffff"/>
+<text x="40" y="44" font-size="19" font-weight="700" fill="#1a1c20">Free Rules, Thin Gains</text>
+<text x="40" y="68" font-size="12.5" fill="#5b6070">A calibrated property verifier on NVARC for ARC-AGI-2: +1 output per run, 0 lost</text>
+<g fill="none" stroke="#8a8f98" stroke-width="1.25">
+<path d="M264 128H296" marker-end="url(#a)"/><path d="M512 128H544" marker-end="url(#a)"/>
+<path d="M652 156V232" marker-end="url(#a)"/>
+<path d="M264 260H296" marker-end="url(#a)"/><path d="M512 260H544" marker-end="url(#a)"/>
+<path d="M652 288V320" marker-end="url(#a)"/>
+</g>
+<g font-size="13" text-anchor="middle">
+<rect x="40" y="100" width="216" height="56" rx="8" fill="none" stroke="#8a8f98" stroke-width="1.25"/>
+<text x="148" y="124" font-weight="600" fill="#1a1c20">Test-time training</text><text x="148" y="142" font-size="11.5" fill="#5b6070">LoRA on the task's examples</text>
+<rect x="296" y="100" width="216" height="56" rx="8" fill="none" stroke="#8a8f98" stroke-width="1.25"/>
+<text x="404" y="124" font-weight="600" fill="#1a1c20">DFS generation</text><text x="404" y="142" font-size="11.5" fill="#5b6070">16 views, keep p ≥ 0.2</text>
+<rect x="544" y="100" width="216" height="56" rx="8" fill="none" stroke="#8a8f98" stroke-width="1.25"/>
+<text x="652" y="124" font-weight="600" fill="#1a1c20">NVARC selection</text><text x="652" y="142" font-size="11.5" fill="#5b6070">re-score, pick top 2</text>
+<rect x="40" y="232" width="216" height="56" rx="8" fill="none" stroke="#8a8f98" stroke-width="1.25"/>
+<text x="148" y="256" font-weight="600" fill="#1a1c20">Calibrate rules</text><text x="148" y="274" font-size="11.5" fill="#5b6070">1,000 training tasks, keep 12</text>
+<rect x="296" y="232" width="216" height="56" rx="8" fill="none" stroke="#8a8f98" stroke-width="1.25"/>
+<text x="404" y="256" font-weight="600" fill="#1a1c20">Induce per task</text><text x="404" y="274" font-size="11.5" fill="#5b6070">rules true on every example</text>
+<rect x="544" y="232" width="216" height="56" rx="8" fill="#2f6fde" fill-opacity="0.12" stroke="#2f6fde" stroke-width="2"/>
+<text x="652" y="256" font-weight="600" fill="#1a1c20">Property verifier</text><text x="652" y="274" font-size="11.5" fill="#1a1c20">swaps out rule-breaking attempts</text>
+<rect x="544" y="320" width="216" height="56" rx="8" fill="none" stroke="#8a8f98" stroke-width="1.25"/>
+<text x="652" y="344" font-weight="600" fill="#1a1c20">submission.json</text><text x="652" y="362" font-size="11.5" fill="#5b6070">passing attempts untouched</text>
+</g>
+<text x="642" y="198" text-anchor="end" font-size="11.5" fill="#5b6070">top 2 + full candidate pool</text>
+<text x="40" y="344" font-size="11.5" fill="#5b6070">Top row: NVARC, unchanged</text>
+<text x="40" y="362" font-size="11.5" fill="#5b6070">Bottom row: one added cell, CPU, seconds</text>
+<text x="40" y="384" font-size="10.5" fill="#8a8f98">Tersoo Uganden · THEAFFILMTISER Research · ARC Prize 2026 Paper Track</text>
+</svg></body></html>

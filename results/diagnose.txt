@@ -1,0 +1,21 @@
+all candidates: wrong 1856, flagged 301 (16.2%); right 62, flagged 0
+
+lost output   active  truth-rank/of  above-truth flagged/total  top1-views truth-views  top1-cell-agree
+142ca369_0      9     5/22       0/4        7    4   46%
+62593bfd_1      9     7/13       0/6        5    2   95%
+b9e38dc0_0      9     5/14       0/4        5    2   93%
+d59b0160_0      6    16/25       0/15       8    1   50%
+8f3a5a89_0      6     3/6        0/2       28    4   94%
+dfadab01_0      6     3/7        0/2       15    3   98%
+78332cb0_0      4     4/10       0/3        5    5   90%
+3dc255db_0      7     6/19       0/5        5    3   99%
+221dfab4_1      6     8/15       1/7        3    1   95%
+4c7dc4dd_1      3     5/23       0/4        7    2   19%
+8f215267_0      6    10/20       0/9        7    2   99%
+a47bf94d_0      8     8/13       0/7        7    2   99%
+20270e3b_0      3    11/18       0/10       7    1   shape≠
+3a25b0d8_0      4     3/15       2/2        6    3   95%
+d35bdbdc_1      6     3/13       0/2       15    5   82%
+eee78d87_0      5     3/7        0/2       20    7   55%
+9385bd28_1      8     3/25       0/2        3    1   96%
+b0039139_1      3     4/7        0/3       22    1   shape≠

@@ -1,0 +1,23 @@
+{
+ "new_cols_known": 0.0009293680297397769,
+ "palette_known": 0.0,
+ "const_ratio": 0.004540295119182747,
+ "const_dshape": 0.0034602076124567475,
+ "out_cols_subset_in": 0.0013333333333333333,
+ "bg_preserved": 0.02888583218707015,
+ "n_out_colors_const": 0.05371900826446281,
+ "same_shape": 0.0,
+ "fg_count_nondecreasing": 0.0014184397163120568,
+ "fg_count_nonincreasing": 0.016304347826086956,
+ "out_cols_eq_in": 0.00408997955010225,
+ "const_out_shape": 0.04700854700854701,
+ "fg_kept": 0.003663003663003663,
+ "bg_kept": 0.04895104895104895,
+ "color_counts_preserved": 0.0,
+ "sym_lr": 0.023809523809523808,
+ "sym_ud": 0.0684931506849315,
+ "sym_diag": 0.07142857142857142,
+ "out_is_subgrid": 0.018518518518518517,
+ "in_is_subgrid_of_out": 0.0,
+ "cellwise_colormap": 0.0
+}

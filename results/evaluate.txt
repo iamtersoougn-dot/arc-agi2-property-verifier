@@ -1,0 +1,30 @@
+
+== seed0: baseline 28.70%  lost-in-selection 14
+  veto0 thr<=0.005  29.13% (+0.43)  recovered 1 ['3a25b0d8_0']  broke 0 []
+  veto0 thr<=0.01   29.13% (+0.43)  recovered 1 ['3a25b0d8_0']  broke 0 []
+  veto0 thr<=0.02   29.13% (+0.43)  recovered 1 ['3a25b0d8_0']  broke 0 []
+  veto0 thr<=0.05   28.70% (+0.00)  recovered 0 []  broke 0 []
+  veto  thr<=0.005  29.13% (+0.43)  recovered 1 ['3a25b0d8_0']  broke 0 []
+  veto  thr<=0.01   29.13% (+0.43)  recovered 1 ['3a25b0d8_0']  broke 0 []
+  veto  thr<=0.02   29.13% (+0.43)  recovered 1 ['3a25b0d8_0']  broke 0 []
+  veto  thr<=0.05   28.70% (+0.00)  recovered 0 []  broke 0 []
+
+== seed1: baseline 26.67%  lost-in-selection 8
+  veto0 thr<=0.005  27.10% (+0.43)  recovered 1 ['3a25b0d8_0']  broke 0 []
+  veto0 thr<=0.01   27.10% (+0.43)  recovered 1 ['3a25b0d8_0']  broke 0 []
+  veto0 thr<=0.02   27.10% (+0.43)  recovered 1 ['3a25b0d8_0']  broke 0 []
+  veto0 thr<=0.05   26.67% (+0.00)  recovered 0 []  broke 0 []
+  veto  thr<=0.005  27.10% (+0.43)  recovered 1 ['3a25b0d8_0']  broke 0 []
+  veto  thr<=0.01   27.10% (+0.43)  recovered 1 ['3a25b0d8_0']  broke 0 []
+  veto  thr<=0.02   27.10% (+0.43)  recovered 1 ['3a25b0d8_0']  broke 0 []
+  veto  thr<=0.05   26.67% (+0.00)  recovered 0 []  broke 0 []
+
+== pooled: baseline 29.71%  lost-in-selection 18
+  veto0 thr<=0.005  30.14% (+0.43)  recovered 1 ['3a25b0d8_0']  broke 0 []
+  veto0 thr<=0.01   30.14% (+0.43)  recovered 1 ['3a25b0d8_0']  broke 0 []
+  veto0 thr<=0.02   30.14% (+0.43)  recovered 1 ['3a25b0d8_0']  broke 0 []
+  veto0 thr<=0.05   29.71% (+0.00)  recovered 0 []  broke 0 []
+  veto  thr<=0.005  30.14% (+0.43)  recovered 1 ['3a25b0d8_0']  broke 0 []
+  veto  thr<=0.01   30.14% (+0.43)  recovered 1 ['3a25b0d8_0']  broke 0 []
+  veto  thr<=0.02   30.14% (+0.43)  recovered 1 ['3a25b0d8_0']  broke 0 []
+  veto  thr<=0.05   29.71% (+0.00)  recovered 0 []  broke 0 []

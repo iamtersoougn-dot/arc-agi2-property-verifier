@@ -1,0 +1,2 @@
+seed0: NVARC 28.70% -> verifier 29.13%  changed 13  gained [('3a25b0d8', 0)]  lost []
+seed1: NVARC 26.67% -> verifier 27.10%  changed 16  gained [('3a25b0d8', 0)]  lost []
